@@ -1,0 +1,9 @@
+#summary Source
+#labels Phase-Design
+
+= Source repository =
+
+You can check out the latest source code of via [https://github.com/BYVoid/uchardet github].
+{{{
+ $ git clone git@github.com:BYVoid/uchardet.git uchardet
+}}}
